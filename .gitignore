@@ -1,0 +1,16 @@
+**/target/
+*.ipr
+*~
+*.swp
+*.DS_Store
+.idea/
+**/*.iml
+*.iws
+*.bak
+
+**/*nb-configuration.xml
+
+**/*.classpath
+**/*.project
+.metadata
+.settings
